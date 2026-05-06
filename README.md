@@ -9,3 +9,8 @@ Example Files
 allow_list.txt
 remove_list.txt
 Output after running the algorithm:
+Skills Demonstrated
+Python File I/O
+List operations and loops
+Conditional logic
+Automation concepts in cybersecurity
