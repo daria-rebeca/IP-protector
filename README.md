@@ -15,4 +15,4 @@ List operations and loops
 Conditional logic
 Automation concepts in cybersecurity
 
-![Code Screenshot](screenshot/screenshot_IPprotector.png)
+![Code Screenshot](screenshot/code_screenshot_IPprotector.png)
